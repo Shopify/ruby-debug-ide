@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 [![Gem Version](https://badge.fury.io/rb/ruby-debug-ide.svg)][gem]
 [![Build Status](https://travis-ci.org/ruby-debug/ruby-debug-ide.svg?branch=master)](https://travis-ci.org/ruby-debug/ruby-debug-ide)
 
